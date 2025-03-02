@@ -13,5 +13,5 @@
 - Rode o arquivo de programa no terminal com: ```python nome_arquivo.py```
 
 ## Para rodar o simulador do K-Means:
-- Baixo o arquivo kmeans.jar do git
+- Baixe o arquivo kmeans.jar do git
 - No terminal: faça ```java -jar kmeans.jar```
