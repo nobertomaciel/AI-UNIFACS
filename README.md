@@ -14,4 +14,4 @@
 
 ## Para rodar o simulador do K-Means:
 - Baixo o arquivo kmeans.jar do git
-- No terminal: faça "java -jar kmeans.jar"
+- No terminal: faça ```java -jar kmeans.jar```
