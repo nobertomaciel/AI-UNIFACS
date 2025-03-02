@@ -1,10 +1,10 @@
-## Para rodar no Google Colab:
+## Para rodar os algoritmos dos arquivos ```.ipynb``` no Google Colab:
 - Baixe o arquivo do git
 - Abra no https://colab.research.google.com/ (Arquivo > Abrir notebook)
 - Rode os blocos de código na ordem ou faça CTRL+F9
 
 
-## Para rodar os programas no VSCode:
+## Para rodar os algoritmos dos arquivos ```.ipynb``` no VSCode:
 - Baixe os arquivos do git
 - Abra no https://colab.research.google.com/ (Arquivo > Abrir notebook)
 - Baixe o arquivo do Google Colab como .py (Arquivo > Fazer download > Fazer download como .py)
