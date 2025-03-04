@@ -1,6 +1,6 @@
 # Repositório da disciplina Inteligência Artificial
 ## Para rodar os algoritmos dos arquivos ```.ipynb``` no Google Colab:
-- Baixe o arquivo do git
+- Baixe o arquivo do git (ou rode diretamente ao visualizar o arquivo, aparecerá um button para rodar no Colab)
 - Abra no https://colab.research.google.com/ (Arquivo > Abrir notebook)
 - Rode os blocos de código na ordem ou faça CTRL+F9
 
