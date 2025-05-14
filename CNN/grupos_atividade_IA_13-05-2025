@@ -1,0 +1,39 @@
+EQUIPES:
+
+1o) 10 pontos
+2o) 5 pontos
+3o) 3 pontos
+
+5. Lano oliveira, Daniel Lucas, Evelli, Lucas Melo (0.9505 - 0.6971) - 0,8238
+3. Cauã Felipe, Gustavo Santana (0.9485 - 0.7620) - 0,85525
+4. Bruno Melo, Daniel Menezes, Fernando Mota, Gabriel Galindo (0.9742 - 0.6805) - 0,82735
+2. Abner, Lucas Amorim, Enzo, Gabriel Oliveira, Irvin Marques (0.8991 - 0.8642) - 0,88165
+6. Lucas Neves, Lucas Lopes, Gustavo Coutinho, Marco Vinícius (0.9124 - 0.7011) - 0,80675
+1. Lino Menezes, Johan Victor, Morgana Martins, João Victor, Guilherme Almeida (0.9991 - 0.9906) - 0,99485 **Sub-judice
+
+____________________________________________________________________________________________________________________________
+*COMPETIÇÃO:* rede neural convolucional CNN, melhor desempenho
+
+*OBJETIVO:* obtenção da maior média de acurácia (accuracy+last_accuracy)/2 - da última época rodada - para o código usando o dataset CIFAR10;
+*PODE:* alterar número de épocas, camadas da rede, topologia (a composição - tamanho - das matrizes, filtros...), aplicar dropout, data augmentation, trocar funções de ativação, etc...
+*NÃO PODE:* reduzir o tamanho do dataset, usar editor diferente do Google Colab;
+*PRAZO PARA FORMAÇÃO DAS EQUIPES:* 15/05/2025 até 15h
+*APRESENTAÇÃO DE RESULTADOS PARCIAIS:* 15/05/2025 22h - 16/05/2025 22h - 17/05/2025 22h - 18/05/2025 22h - 19/05/2025 22h
+*PRAZO FINAL PARA ENTREGA DO CÓDIGO:* 20/05/2025 12h
+*REGRAS GERAIS:* o descumprimento de quaisquer prazos (parcial ou final) gerará a desclassificação da equipe; a entrega das parciais será através de print da última época do treinamento da rede no grupo da UC; TODAS as equipes devem usar apenas o Google Colab para executar o código; no prazo final, após o envio da última parcial no grupo, o líder da equipe deverá enviar o link do repositório no GitHub com o código para ser testado para o e-mail do professor (noberto.maciel@ulife.com.br); a acurácia do código enviado deverá ser a mesma, ou maior, que a acurácia da última parcial enviada no grupo do whatsapp.
+
+*REVISÃO DOS CÓDIGOS:* 20/05/2025 ao vivo, no laboratório, juntamente com os alunos, o código de cada equipe será testado e a acurácia final validada (os códigos serão executados ao mesmo tempo em máquinas distintas).
+
+*CÓDIGO BASE:* https://github.com/nobertomaciel/AI-UNIFACS/blob/main/CNN/cnn.ipynb
+
+*EQUIPES (provisório):*
+
+1º lugar: 10 pontos na AV1
+2º lugar 5 pontos na AV1
+3º lugar 3 pontos na AV1
+
+a. Lano oliveira, Daniel Lucas, Evelli, Lucas Melo
+b. Bruno Melo, Daniel Menezes, Fernando Mota, Gabriel Galindo
+c. Abner, Lucas Amorim, Enzo, Gabriel Oliveira, Irvin Marques, Cauã Felipe, Gustavo Santana
+d. Lucas Neves, Lucas Lopes, Gustavo Coutinho, Marco Vinícius
+e. Lino Menezes, Johan Victor, Morgana Martins, João Vitor, Guilherme Almeida
