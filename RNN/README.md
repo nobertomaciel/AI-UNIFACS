@@ -29,10 +29,3 @@ ________________________________________________________________________________
 
 ## CÓDIGO BASE:
 - https://github.com/nobertomaciel/AI-UNIFACS/blob/main/RNN/RNN_competition.ipynb
-
-## EQUIPES (provisório):
-- A. Lano oliveira, Daniel Lucas, Evelli, Lucas Melo
-- B. Bruno Melo, Daniel Menezes, Fernando Mota, Gabriel Galindo
-- C. Abner, Lucas Amorim, Enzo, Gabriel Oliveira, Irvin Marques
-- D. Lucas Neves, Lucas Lopes, Gustavo Coutinho, Marco Vinícius
-- E. Lino Menezes, Johan Victor, Morgana Martins, João Victor, Guilherme Almeida
