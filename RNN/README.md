@@ -1,10 +1,10 @@
 ____________________________________________________________________________________________________________________________
 # COMPETIÇÃO: rede neural recorrente RNN, sistema de predição textual (autocompletação)
 
-## 1º lugar: 7 pontos na AV2
-## 2º lugar 5 pontos na AV2
-## 3º lugar 3 pontos na AV2
-## Demais equipes: 1 ponto na AV2
+- 1º lugar: 7 pontos na AV2
+- 2º lugar 5 pontos na AV2
+- 3º lugar 3 pontos na AV2
+- Demais equipes: 1 ponto na AV2
 
 ## OBJETIVO:
 - desenvolver sistema para autocompletação textual que seja capaz de prever até as próximas três palavras em uma frase, os critérios para julgamento serão: 1) menor tempo de treinamento; 2) maior índice de acerto dentro do conjunto de teste (oculto, divulgado apenas no dia da avaliação da RNN).
