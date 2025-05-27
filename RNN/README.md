@@ -15,12 +15,13 @@ ________________________________________________________________________________
 - Aplicar dropout  (se aplicável);
 - Aplicar data augmentation (se aplicável);
 - Trocar funções de ativação;
-- Usar qualquer dataset;
+- Usar qualquer dataset (apenas em português brasileiro);
 - Implementar leitura automática de dataset.
   
 ## NÃO PODE:
 - Usar editor diferente do Google Colab;
 - Usar algoritmo diferente da RNN base proposta pelo professor (link abaixo);
+- Usar dataset em outra língua que não seja o português brasileiro.
 ## PRAZO PARA DEFINIÇÃO DAS EQUIPES:
 - Até o dia 30/05/2025 às 19h
 ## PRAZO FINAL PARA ENTREGA DOS ARQUIVOS DO MODELO TREINADO:
