@@ -27,6 +27,7 @@ ________________________________________________________________________________
 - Prazo para envio: 02/06/2025 20:00h
 - Arquivos que devem ser enviados: nome_do_grupo_tokenizer_RNN.pkl e nome_do_grupo_modelo_RNN.keras;
 ## REGRAS GERAIS:
+- Os alunos que não participarem das equipes não terão pontuação, os líderes das equipes ficam responsáveis por informar a não participação de qualquer membro;
 - o descumprimento de quaisquer prazos gerará a desclassificação da equipe e perda da pontuação;
 - TODAS as equipes devem usar apenas o Google Colab para executar o código;
 - O líder da equipe deverá enviar os arquivos (devidamente nomeados com o nome da equipe) da rede treinada (nome_do_grupo_tokenizer_RNN.pkl e nome_do_grupo_modelo_RNN.keras) para o e-mail do professor;
